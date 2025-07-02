@@ -1,0 +1,12 @@
+C:\Users\tmielke1\source\repos\Selling Stuff Game\bin\Debug\Selling Stuff Game.exe.config
+C:\Users\tmielke1\source\repos\Selling Stuff Game\bin\Debug\Selling Stuff Game.exe
+C:\Users\tmielke1\source\repos\Selling Stuff Game\bin\Debug\Selling Stuff Game.pdb
+C:\Users\tmielke1\source\repos\Selling Stuff Game\obj\Debug\Selling Stuff Game.csproj.AssemblyReference.cache
+C:\Users\tmielke1\source\repos\Selling Stuff Game\obj\Debug\Selling_Stuff_Game.MainScreen.resources
+C:\Users\tmielke1\source\repos\Selling Stuff Game\obj\Debug\Selling_Stuff_Game.Properties.Resources.resources
+C:\Users\tmielke1\source\repos\Selling Stuff Game\obj\Debug\Selling Stuff Game.csproj.GenerateResource.cache
+C:\Users\tmielke1\source\repos\Selling Stuff Game\obj\Debug\Selling Stuff Game.csproj.CoreCompileInputs.cache
+C:\Users\tmielke1\source\repos\Selling Stuff Game\obj\Debug\Selling Stuff Game.exe
+C:\Users\tmielke1\source\repos\Selling Stuff Game\obj\Debug\Selling Stuff Game.pdb
+C:\Users\tmielke1\source\repos\Selling Stuff Game\obj\Debug\Selling Stuff Game.exe.config
+C:\Users\tmielke1\source\repos\Selling Stuff Game\obj\Debug\Selling_Stuff_Game.Extras.resources
